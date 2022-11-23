@@ -1,0 +1,9 @@
+{
+	"name": "anil-adf-devv",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "17eff7b2-57c1-4abc-b60e-694de5f7ca4a",
+		"tenantId": "e714ef31-faab-41d2-9f1e-e6df4af16ab8"
+	}
+}
