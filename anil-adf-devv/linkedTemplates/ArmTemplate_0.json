@@ -210,7 +210,7 @@
 						]
 					},
 					{
-						"name": "Notebook1",
+						"name": "Notebook01",
 						"type": "DatabricksNotebook",
 						"dependsOn": [],
 						"policy": {
